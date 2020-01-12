@@ -1,4 +1,4 @@
-# algorithmic-analysis-fundamentals
+# Algorithmic Analysis Fundamentals
 
 ## Task
 Understand the fundamentals of CS Algorithms.
